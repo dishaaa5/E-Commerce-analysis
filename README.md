@@ -20,7 +20,7 @@ Filter Mastercard users with purchases over $50
 ## Requirements
 Python 3.x
 
-pandas library
+Pandas library
 
 ## Author
 Disha / https://github.com/dishaaa5
